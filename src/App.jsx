@@ -1,7 +1,7 @@
 function App() {
   return (
-    <main>
-      <div>Hello</div>
+    <main style={{ background: "black" }}>
+      <div style={{ color: "red" }}>Địt con mẹ mày thằng mặt lồn cường</div>
     </main>
   )
 }
